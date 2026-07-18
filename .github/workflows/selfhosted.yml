@@ -42,7 +42,7 @@ on:
       LOCAL_MANIFEST_BRANCH:
         description: "Personal local manifest's branch:"
         required: false
-        default: 'axion-16.2'
+        default: 'lineage-23.2'
       DEVICE_NAME:
         description: "Device's codename:"
         required: true
